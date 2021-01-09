@@ -2,10 +2,10 @@
 
 随时唤起的快速搜索栏    
 
-**下载方式（v1.0）**
+**下载方式（v1.1）**
 - 
-- 方式1：[GitHub](https://github.com/tp1415926535/QuickSearchTool/raw/main/%E5%BF%AB%E9%80%9F%E6%90%9C%E7%B4%A2v1.0.rar)   
-- 方式2：[蓝奏云](https://wws.lanzous.com/id2Zmj124cd)       
+- 方式1：[GitHub](https://github.com/tp1415926535/QuickSearchTool/raw/main/%E5%BF%AB%E9%80%9F%E6%90%9C%E7%B4%A2v1.1.rar)   
+- 方式2：[蓝奏云](https://wws.lanzous.com/ivYFzk7ppsf)       
     
 解压后运行“快速搜索.exe”即可。
    
@@ -24,3 +24,7 @@
 * 文件夹路径→文件夹
 * 文件路径→文件
 * 默认粘贴剪切板内容到搜索栏中
+
+**版本**
+- v1.1 2021/1/9   调整了搜索栏外观显示：将搜索引擎、搜索、取消按钮放到搜索栏界面。
+- v1.0 2020/12/3  实现全部基本功能。
