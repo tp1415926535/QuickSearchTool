@@ -5,7 +5,7 @@
 **下载方式（v1.1）**
 - 
 - 方式1：[GitHub](https://github.com/tp1415926535/QuickSearchTool/raw/main/%E5%BF%AB%E9%80%9F%E6%90%9C%E7%B4%A2v1.1.rar)   
-- 方式2：[蓝奏云](https://wws.lanzous.com/ivYFzk7ppsf)       
+- 方式2：[蓝奏云](https://wws.lanzous.com/isgBpka7h6f)       
     
 解压后运行“快速搜索.exe”即可。
    
@@ -27,5 +27,5 @@
    
 **版本**    
 - 
-- v1.1 2021/1/9   调整了搜索栏外观显示：将搜索引擎、搜索、取消按钮放到搜索栏界面。
+- v1.1 2021/1/9   调整了搜索栏外观显示：将搜索引擎、搜索、取消按钮放到搜索栏界面，移除取消键的提示音。
 - v1.0 2020/12/3  实现全部基本功能。
