@@ -5,7 +5,7 @@
 **下载方式（v1.1）**
 - 
 - 方式1：[GitHub](https://github.com/tp1415926535/QuickSearchTool/raw/main/%E5%BF%AB%E9%80%9F%E6%90%9C%E7%B4%A2v1.1.rar)   
-- 方式2：[蓝奏云](https://wws.lanzous.com/isgBpka7h6f)       
+- 方式2：[蓝奏云](https://wws.lanzous.com/ip0zXkcy3nc)       
     
 解压后运行“快速搜索.exe”即可。
    
